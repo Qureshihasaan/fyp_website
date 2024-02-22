@@ -9,9 +9,9 @@ export default function Component() {
         {/* <Image 
         src='/student.jpeg' 
         alt=''
-        width={100}
-        height={100} 
-        className=''
+        width={700}
+        height={750} 
+        className=' font-extrabold absolute leading-[160px] sm:leading-[110px] opacity-10'
         /> */}
             <h1 className= ' text-black px-16 mt-6 text-2xl font-extrabold '>
                 Premium Quality

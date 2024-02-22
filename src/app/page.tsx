@@ -4,6 +4,7 @@ import Center from "../components/ui/Center";
 import Footer from "../components/ui/Footer";
 
 
+
 export default function Home() {
   return (
     <main>
